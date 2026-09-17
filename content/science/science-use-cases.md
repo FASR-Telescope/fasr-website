@@ -1,6 +1,7 @@
 ---
 title: FASR Science Use Cases
 date: 2026-01-22
+lastmod: 2026-09-16
 type: page
 ---
 
@@ -36,10 +37,14 @@ For full consideration, please submit your Science Use Case using the following 
 
 Science use cases are being developed and evaluated within four current Science Working Groups, spanning the major areas of solar radio physics.
 
+The documents below are working science-case manuscripts. Their observational requirements start from a defined scientific measurement or model-discrimination test. Requirements that still depend on source-injection, retrieval, or calibration studies are identified inside each manuscript and should not be read as demonstrated instrument performance.
+
 **SWG1: Magnetic Reconnection & Particle Acceleration**  
 Probing the physics of energy release, particle acceleration, and the formation of flare-accelerated populations during solar flares and eruptive events.
 
 - [SWG1-1: Where is the Primary Electron Acceleration Site in Solar Flares?](../FASR-SciCase-WG1-1_primary_electron_acceleration_site_solar_flares.pdf) — Lead author: *Bin Chen*
+- [SWG1-4: Revealing Electron Acceleration and Transport by Termination Shocks in Solar Flares](../FASR-SciCase-WG1-4_revealing_electron_acceleration_transport_termination_shocks_solar_flares.pdf) — Lead author: *Xiaoyan Xie*
+- [SWG1-5: Diagnosing the Hot Onset of Large Solar Flares](../FASR-SciCase-WG1-5_diagnosing_hot_onset_large_solar_flares.pdf) — Lead author: *Milo Buitrago-Casas*
 
 **SWG2: Coronal Magnetography**  
 Mapping coronal magnetic fields using advanced radio diagnostics to understand field topology, dynamics, and their role in structuring the solar atmosphere.
@@ -47,14 +52,22 @@ Mapping coronal magnetic fields using advanced radio diagnostics to understand f
 - [SWG2-1: Mapping Magnetic Fields in Post-Flare Loops and Arcades](../FASR-SciCase-WG2-1_mapping_magnetic_fields_post_flare_loops_arcades.pdf) — Lead author: *Sijie Yu*
 - [SWG2-2: Determining the Source of Non-Thermal Emission in Supra-Arcade Downflows and Fans](../FASR-SciCase-WG2-2_nonthermal_emission_supra_arcade_downflows_fans.pdf) — Lead author: *Kathy Reeves*
 - [SWG2-3: Diagnosing the Dynamics of Developing Magnetic Flux Ropes in Active Regions](../FASR-SciCase-WG2-3_diagnosing_developing_magnetic_flux_ropes.pdf) — Lead author: *Jie Zhang*
+- [SWG2-4: 3D Tomography and Evolution of Quiescent and Active Region Filament Channels](../FASR-SciCase-WG2-4_3d_tomography_evolution_filament_channels.pdf) — Lead author: *Georgios Chintzoglou*
 
 **SWG3: Coronal Heating & Solar Wind Acceleration**  
 Investigating the conversion of magnetic energy into thermal and kinetic energy, including mechanisms that heat the corona and drive the solar wind.
 
 - [SWG3-1: Investigation of Compact Transient Structures in the Low Corona](../FASR-SciCase-WG3-1_compact_transient_structures_low_corona.pdf) — Lead author: *Surajit Mondal*
+- [SWG3-3: Tracking Coronal Cavities for Pre-eruptive Signatures of Coronal Mass Ejections](../FASR-SciCase-WG3-3_tracking_coronal_cavities_pre_eruptive_cmes.pdf) — Lead author: *Shaheda Begum Shaik*
 
 **SWG4: Drivers of Space Weather**  
 Characterizing solar activity that perturbs the heliosphere and affects the geospace environment, improving our ability to forecast space-weather conditions.
+
+- [SWG4-1: Quantifying CME-Driven Shock Properties Using Radio Imaging Spectroscopy](../FASR-SciCase-WG4-1_quantifying_cme_driven_shock_properties.pdf) — Lead author: *Shaheda Begum Shaik*
+
+**Additional working draft**
+
+- [Full-Disk Microwave Imaging of Active-Region Coronal Magnetism and the Sources of F10.7](../FASR-SciCase-14_broadband_full_disk_synoptic_imaging_quiet_sun.pdf) — Lead author: *Sijie Yu*; temporary local identifier, awaiting Science Working Group assignment
 
 Science Use Cases for topics outside these areas are also welcome.
 
