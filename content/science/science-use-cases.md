@@ -53,7 +53,7 @@ Mapping coronal magnetic fields using advanced radio diagnostics to understand f
 - [SWG2-2: Determining the Source of Non-Thermal Emission in Supra-Arcade Downflows and Fans](../FASR-SciCase-WG2-2_nonthermal_emission_supra_arcade_downflows_fans.pdf) — Lead author: *Kathy Reeves*
 - [SWG2-3: Diagnosing the Dynamics of Developing Magnetic Flux Ropes in Active Regions](../FASR-SciCase-WG2-3_diagnosing_developing_magnetic_flux_ropes.pdf) — Lead author: *Jie Zhang*
 - [SWG2-4: 3D Tomography and Evolution of Quiescent and Active Region Filament Channels](../FASR-SciCase-WG2-4_3d_tomography_evolution_filament_channels.pdf) — Lead author: *Georgios Chintzoglou*
-- [WG2-5: Full-Disk Microwave Imaging of Active-Region Coronal Magnetism and the Sources of F10.7](../FASR-SciCase-WG2-5_full_disk_synoptic_imaging_quiet_sun.pdf) — Lead author: *Sijie Yu*. The former [SciCase-14 PDF URL](../FASR-SciCase-14_broadband_full_disk_synoptic_imaging_quiet_sun.pdf) remains available.
+- [WG2-5: Full-Disk Microwave Imaging of Active-Region Coronal Magnetism and the Sources of F10.7](../FASR-SciCase-WG2-5_full_disk_synoptic_imaging_quiet_sun.pdf) — Lead author: *Sijie Yu*.
 
 **SWG3: Coronal Heating & Solar Wind Acceleration**  
 Investigating the conversion of magnetic energy into thermal and kinetic energy, including mechanisms that heat the corona and drive the solar wind.
